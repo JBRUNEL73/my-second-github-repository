@@ -1,2 +1,2 @@
 Fichier créé sur GitHub après clonage sur git et tracking bracnh feature.
-j'ajoute une ligne depuis git
+J'ajoute une ligne depuis github
